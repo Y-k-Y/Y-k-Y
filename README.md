@@ -1,4 +1,4 @@
-### Hello! I'm Juan, good to see you 👋
+# Hello! I'm Juan, good to see you 👋
 
 <!--
 **Y-k-Y/Y-k-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/9517076)](https://stackoverflow.com/users/9517076/hamiltonpharmd)
+![Profile views](https://gpvc.arturio.dev/Y-k-Y)
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9517076)](https://stackoverflow.com/users/9517076/i-have-10-fingers)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
