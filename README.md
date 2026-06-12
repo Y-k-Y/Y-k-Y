@@ -25,5 +25,38 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+🌆 Daytime                905 commits         ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+🌃 Evening                1397 commits        ███████████░░░░░░░░░░░░░░   43.85 % 
+🌙 Night                  532 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   694 commits         █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+Tuesday                  645 commits         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Wednesday                615 commits         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Thursday                 589 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Friday                   544 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Saturday                 77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Sunday                   22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
